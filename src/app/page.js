@@ -13,7 +13,7 @@ export default function BlogLandingPage() {
       <header className="header">
         <Link href="#">
           <BookOpen className="h-6 w-6" />
-          <span className="sr-only">Acme Blogs</span>
+          <span className="sr-only"> Blogs</span>
         </Link>
         <nav className="nav">
           <Link className="navLink" href="#">Home</Link>
@@ -26,7 +26,7 @@ export default function BlogLandingPage() {
       <main className="main">
         <section className="heroSection" style={{display:"flex", justifyContent:"center"}}>
           <div className="container">
-            <h1 className="heroText">Welcome to Acme Blogs</h1>
+            <h1 className="heroText">Welcome to Blogs</h1>
             <p className="heroDescription">
               Discover insightful articles, expert opinions, and the latest trends in technology, lifestyle, and more.
             </p>
@@ -58,7 +58,7 @@ export default function BlogLandingPage() {
 
         <section className="callToAction">
           <h2>Start Your Blogging Journey</h2>
-          <p>Join our community of writers and share your thoughts with the world. It's easy to get started and free to use.</p>
+          <p>Join our community of writers and share your thoughts with the world. Its easy to get started and free to use.</p>
           <form>
             <input placeholder="Enter your email" type="email" />
             <button type="submit" >
@@ -69,7 +69,7 @@ export default function BlogLandingPage() {
       </main>
 
       <footer className="footer">
-        <p>© 2024 Acme Blogs. All rights reserved.</p>
+        <p> 2024 Acme Blogs. All rights reserved.</p>
         <nav>
           <Link href="#">Terms of Service</Link>
           <Link href="#" style={{paddingLeft:"2px"}}>Privacy</Link>
