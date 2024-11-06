@@ -31,7 +31,7 @@ export default function BlogPost({ params }) {
    
       
 
-      <main className="flex-1 container mx-auto px-4 py-8" style={{ margin: "3rem" }}>
+      <main className="flex-1 container mx-auto px-4 py-8" >
         <Link href="/" className="inline-flex items-center text-blue-600 dark:text-blue-400 hover:underline mb-6">
           Back to Blog
         </Link>
