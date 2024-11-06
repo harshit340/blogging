@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "title": "The Future of AI in Everyday Life",
+      "description": "Exploring how artificial intelligence is shaping our daily routines and future prospects.",
+      "category": "Technology",
+      "thumbnail": "/assets/aiimage.jpeg"
+    },
+    {
+      "id": 2,
+      "title": "Sustainable Living: Small Changes, Big Impact",
+      "description": "Discover simple ways to lead a more eco-friendly lifestyle and contribute to a healthier planet.",
+      "category": "Lifestyle",
+      "thumbnail": "/assets/sustain.jpg"
+    },
+    {
+      "id": 3,
+      "title": "The Rise of Remote Work: Challenges and Opportunities",
+      "description": "Analyzing the shift towards remote work and its implications for businesses and employees.",
+      "category": "Work",
+      "thumbnail": "/assets/challenge.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Digital Wellbeing in the Modern Age",
+      "description": "Examining strategies to balance digital engagement with personal wellness.",
+      "category": "Health",
+      "thumbnail": "/assets/modern.jpeg"
+    },
+    {
+      "id": 5,
+      "title": "Blockchain Beyond Cryptocurrency",
+      "description": "Understanding blockchain's potential applications outside of digital currency.",
+      "category": "Finance",
+      "thumbnail": "/assets/blockchain.jpeg"
+    }
+  ]
+  
