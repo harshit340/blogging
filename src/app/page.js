@@ -69,7 +69,7 @@ export default function BlogLandingPage() {
       </main>
 
       <footer className="footer">
-        <p> 2024 Acme Blogs. All rights reserved.</p>
+        <p> 2024 Blogs. All rights reserved.</p>
         <nav>
           <Link href="#">Terms of Service</Link>
           <Link href="#" style={{paddingLeft:"2px"}}>Privacy</Link>
